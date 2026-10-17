@@ -37,7 +37,7 @@ print(result["sources"])
 ```
 
 ## Tech stack
-Python, LangChain, Google Gemini, sentence-transformers, (your vector store)
+Python, LangChain, Google Gemini, sentence-transformers, chromadb
 
 ## Notes
 Built as a learning project to understand each RAG component end to end.
